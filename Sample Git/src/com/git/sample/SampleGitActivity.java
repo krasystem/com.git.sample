@@ -17,7 +17,7 @@ public class SampleGitActivity extends Activity {
         launch.setOnClickListener(new OnClickListener() {
 			
 			public void onClick(View v) {
-				Log.d("GIT HUB","Initial Commit");
+				Log.d("GIT HUB","Git hub Sample");
 				Toast.makeText(SampleGitActivity.this, "Sample GIT Repo", 0).show();
 			}
 		});
